@@ -8,9 +8,7 @@ Arcade - is a full fledged bee swarm simulator, created based on stability, simp
 
 ## How to Use
 
-| Status                                                                  |                                  Copy and Paste                                                                 |
-| :---------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: |
-| ![Active](https://img.shields.io/badge/ACTIVE-2ea043?style=flat-square) | loadstring(game:HttpGet("https://raw.githubusercontent.com/zain1241/arcadabss/refs/heads/main/load.luau"))() |
+> loadstring(game:HttpGet("https://raw.githubusercontent.com/zain1241/arcadabss/refs/heads/main/load.luau"))()
 
 ## Features
 
